@@ -1,0 +1,14 @@
+C:\GitHubDemo\file1\bin\Debug\net8.0\file1.exe
+C:\GitHubDemo\file1\bin\Debug\net8.0\file1.deps.json
+C:\GitHubDemo\file1\bin\Debug\net8.0\file1.runtimeconfig.json
+C:\GitHubDemo\file1\bin\Debug\net8.0\file1.dll
+C:\GitHubDemo\file1\bin\Debug\net8.0\file1.pdb
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.AssemblyInfoInputs.cache
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.AssemblyInfo.cs
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.csproj.CoreCompileInputs.cache
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.dll
+C:\GitHubDemo\file1\obj\Debug\net8.0\refint\file1.dll
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.pdb
+C:\GitHubDemo\file1\obj\Debug\net8.0\file1.genruntimeconfig.cache
+C:\GitHubDemo\file1\obj\Debug\net8.0\ref\file1.dll
