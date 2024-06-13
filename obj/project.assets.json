@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubDemo\\file1\\file1.csproj",
+      "projectUniqueName": "C:\\GitHubDemo\\ClonedRepo\\TenFiles\\file1.csproj",
       "projectName": "file1",
-      "projectPath": "C:\\GitHubDemo\\file1\\file1.csproj",
+      "projectPath": "C:\\GitHubDemo\\ClonedRepo\\TenFiles\\file1.csproj",
       "packagesPath": "C:\\Users\\t-vlokhande\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHubDemo\\file1\\obj\\",
+      "outputPath": "C:\\GitHubDemo\\ClonedRepo\\TenFiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
