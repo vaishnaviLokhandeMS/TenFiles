@@ -32,6 +32,8 @@ namespace MyCSharpProject
 
             for (int i = 1; i <= 20; i++); // Corrected code
             // Additional corrected code if needed
+            for (int i = 1; i <= 20; i++); // Corrected code
+            // Additional corrected code if needed
             {
                 Console.WriteLine($"Square of {i} is {i * i}");
             }
